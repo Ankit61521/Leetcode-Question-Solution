@@ -24,6 +24,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
