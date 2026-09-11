@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0148-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
