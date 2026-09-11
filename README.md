@@ -9,10 +9,12 @@
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
