@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
 ## Binary Search
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +82,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
