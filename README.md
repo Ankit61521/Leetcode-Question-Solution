@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0054-spiral-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
