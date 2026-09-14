@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
