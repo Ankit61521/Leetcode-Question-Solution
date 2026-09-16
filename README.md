@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1920-build-array-from-permutation) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
