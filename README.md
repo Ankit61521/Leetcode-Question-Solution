@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -47,6 +48,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
