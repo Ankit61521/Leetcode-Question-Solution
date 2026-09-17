@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
