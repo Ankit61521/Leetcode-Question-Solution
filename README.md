@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -95,6 +96,7 @@
 | [0001-two-sum](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
