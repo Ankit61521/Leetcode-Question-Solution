@@ -82,6 +82,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0709-to-lower-case) |
 ## Linked List
@@ -103,6 +104,7 @@
 | [0001-two-sum](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
