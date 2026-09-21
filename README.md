@@ -49,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0148-sort-list) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -148,4 +150,20 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
