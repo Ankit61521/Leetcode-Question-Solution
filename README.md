@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0647-palindromic-substrings) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0344-reverse-string) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
