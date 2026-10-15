@@ -89,6 +89,7 @@
 | [0022-generate-parentheses](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0125-valid-palindrome) |
+| [0306-additive-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0520-detect-capital) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0022-generate-parentheses) |
+| [0306-additive-number](https://github.com/Ankit61521/Leetcode-Question-Solution/tree/master/0306-additive-number) |
 ## Trie
 |  |
 | ------- |
